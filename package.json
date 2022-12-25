@@ -1,0 +1,14 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RayniNE/dockernodeapp.git",
+  "author": "RayniNE <timetopwm@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
